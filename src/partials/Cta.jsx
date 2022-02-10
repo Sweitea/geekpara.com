@@ -19,7 +19,7 @@ function Cta() {
 
               {/* CTA button */}
               <div>
-                <a className="btn text-blue-600 bg-gradient-to-r from-blue-100 to-white" href="signin">联系客户服务代表</a>
+                <a className="btn text-blue-600 bg-gradient-to-r from-blue-100 to-white" href="/contact">联系客户服务代表</a>
               </div>
 
             </div>

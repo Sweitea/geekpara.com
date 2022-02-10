@@ -51,6 +51,7 @@ function App() {
         <Route path="/blog-post" element={<Maintenance />} />
         <Route path="/about" element={<About />} />
         <Route path="/status" element={<Maintenance />} />
+        <Route path="/contact" element={<Maintenance />} />
         <Route path="*" element={<PageNotFound />} />
       </Routes>
     </>
